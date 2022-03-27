@@ -1,0 +1,15 @@
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\UserService.deps.json
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\UserService.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\UserService.pdb
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\ApiModels.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\DbModels.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\ApiModels.pdb
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\bin\Debug\netcoreapp3.1\DbModels.pdb
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CopyComplete
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
