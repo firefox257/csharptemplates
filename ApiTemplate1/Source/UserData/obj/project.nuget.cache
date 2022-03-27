@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PoC9kWaSyC7EDPxxByMQB5QkQb0adCVB7slgcNFOmuoXJjo7IduRE9VfDe0Tox954iLEsG3oxBS58b7GPriq4Q==",
+  "dgSpecHash": "qLKtpUCxXoKnrcpZdgQfgWmHORiK8FQ9Ee9f2L+nlwPAI0zhwaGErVxZCFoZBavvFMBHceiLpSS6li47LyMjdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj",
+  "projectFilePath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

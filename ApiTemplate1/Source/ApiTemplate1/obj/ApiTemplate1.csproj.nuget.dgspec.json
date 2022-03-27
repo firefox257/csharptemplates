@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj": {}
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj",
+        "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj",
         "projectName": "ApiModels",
-        "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj",
+        "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\obj\\",
+        "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj": {
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+        "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj",
         "projectName": "ApiTemplate1",
-        "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+        "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\obj\\",
+        "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,14 +94,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj"
               },
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj"
               },
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj": {
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj",
+        "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj",
         "projectName": "DbModels",
-        "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj",
+        "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\obj\\",
+        "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj": {
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj",
+        "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj",
         "projectName": "UserData",
-        "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj",
+        "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\obj\\",
+        "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -245,8 +245,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj"
               }
             }
           }
@@ -307,14 +307,14 @@
         }
       }
     },
-    "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj": {
+    "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj",
+        "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj",
+        "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\obj\\",
+        "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -337,11 +337,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj"
               },
-              "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj": {
-                "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj"
+              "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj": {
+                "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj"
               }
             }
           }

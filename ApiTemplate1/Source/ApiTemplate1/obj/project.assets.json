@@ -5692,11 +5692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+      "projectUniqueName": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj",
       "projectName": "ApiTemplate1",
-      "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+      "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\ApiTemplate1.csproj",
       "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\obj\\",
+      "outputPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiTemplate1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5719,14 +5719,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiModels\\ApiModels.csproj"
+            "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj": {
+              "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\ApiModels\\ApiModels.csproj"
             },
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserData\\UserData.csproj"
+            "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj": {
+              "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserData\\UserData.csproj"
             },
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\UserService\\UserService.csproj"
+            "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj": {
+              "projectPath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\UserService\\UserService.csproj"
             }
           }
         }

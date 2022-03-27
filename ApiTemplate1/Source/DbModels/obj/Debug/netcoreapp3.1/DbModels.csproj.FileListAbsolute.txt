@@ -7,3 +7,13 @@ C:\Users\Aaron\source\repos\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbMode
 C:\Users\Aaron\source\repos\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\source\repos\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.dll
 C:\Users\Aaron\source\repos\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.pdb
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\bin\Debug\netcoreapp3.1\DbModels.deps.json
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\bin\Debug\netcoreapp3.1\DbModels.dll
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\bin\Debug\netcoreapp3.1\DbModels.pdb
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.csproj.AssemblyReference.cache
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.AssemblyInfoInputs.cache
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.AssemblyInfo.cs
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.csproj.CoreCompileInputs.cache
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.dll
+C:\myprogs\csharptemplates\ApiTemplate1\Source\DbModels\obj\Debug\netcoreapp3.1\DbModels.pdb

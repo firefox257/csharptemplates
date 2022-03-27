@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZOjZ1y87odW3lY/JLlnr0SpUGIH1fDpmAcDdQ4f72VtJ7Tp2WT9Es9BhX7PWXy7kpvHuKntxCSDlt1EQ28P3A==",
+  "dgSpecHash": "OyLBE0/Bg+TnW5nGLcnLekK+UyUSzL3TMoE804Aqq7RZV0efx0uIxTnA1sn7W4Ra4MRpMh4ZS7UDTqZqD4IVmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\DbModels\\DbModels.csproj",
+  "projectFilePath": "C:\\myprogs\\csharptemplates\\ApiTemplate1\\Source\\DbModels\\DbModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
