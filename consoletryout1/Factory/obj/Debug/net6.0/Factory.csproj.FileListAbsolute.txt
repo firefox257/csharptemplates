@@ -1,0 +1,15 @@
+C:\Users\Aaron\source\repos\consoletryout1\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\Aaron\source\repos\consoletryout1\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\Aaron\source\repos\consoletryout1\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\ref\Factory.dll
+C:\Users\Aaron\source\repos\consoletryout1\Factory\bin\Debug\net6.0\Interfaces.dll
+C:\Users\Aaron\source\repos\consoletryout1\Factory\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\Aaron\source\repos\consoletryout1\Factory\obj\Debug\net6.0\Factory.csproj.CopyComplete

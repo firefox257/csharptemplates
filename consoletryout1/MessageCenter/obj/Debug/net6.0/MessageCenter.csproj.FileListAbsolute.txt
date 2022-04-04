@@ -1,0 +1,12 @@
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\bin\Debug\net6.0\MessageCenter.deps.json
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\bin\Debug\net6.0\MessageCenter.dll
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\bin\Debug\net6.0\MessageCenter.pdb
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.dll
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\refint\MessageCenter.dll
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\MessageCenter.pdb
+C:\Users\Aaron\source\repos\consoletryout1\MessageCenter\obj\Debug\net6.0\ref\MessageCenter.dll
