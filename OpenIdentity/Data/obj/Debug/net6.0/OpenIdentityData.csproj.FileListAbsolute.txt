@@ -1,0 +1,12 @@
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\OpenIdentityData.deps.json
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\OpenIdentityData.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\OpenIdentityData.pdb
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.csproj.AssemblyReference.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.GeneratedMSBuildEditorConfig.editorconfig
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.AssemblyInfoInputs.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.AssemblyInfo.cs
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.csproj.CoreCompileInputs.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\refint\OpenIdentityData.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\OpenIdentityData.pdb
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\ref\OpenIdentityData.dll

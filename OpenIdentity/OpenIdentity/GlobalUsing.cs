@@ -1,0 +1,11 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using OpenIdentityDatabase;
+global using OpenIdentityData.Interfaces;
+global using OpenIdentityData.ServiceModels;
+global using OpenIdentityService;
+global using OpenIdentityData.Api;
+global using OpenIdentityData.Exceptions;
+global using AutoMapper;
+global using OpenIdentity.Extentions;
+global using MongoDB.Bson;
+global using MongoDB.Bson.Serialization.Attributes;

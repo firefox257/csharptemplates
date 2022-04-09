@@ -1,0 +1,27 @@
+version: '3.7'
+
+volumes:
+  data-volume:
+
+services:
+  ravendb:
+    image: ravendb/ravendb:ubuntu-latest
+    container_name: mts-ravendb
+    hostname: mts-ravendb
+    stdin_open: true
+    tty: true
+    ports:
+      - 8080:8080
+      - 38888:38888
+    environment:
+      - RAVEN_ARGS=--Setup.Mode=None
+      - RAVEN_Logs_Mode=Information
+      - RAVEN_Security_UnsecuredAccessAllowed=PublicNetwork
+      - RAVEN_PublicServerUrl=http://raven1:8080
+      - RAVEN_PublicServerUrl_Tcp=tcp://raven1:38888
+ 
+
+networks:
+  default:
+    external:
+      name: nat

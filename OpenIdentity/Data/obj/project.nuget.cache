@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+du695kKeT5MNu36irX7Oz70YZ+MagkKTPN8/bOmi6lLwgRSoDesYIuuU25lbbBYnrsHBvIeddCR1AgLwbaWw==",
+  "success": true,
+  "projectFilePath": "C:\\myprogs\\csharptemplates\\OpenIdentity\\Data\\OpenIdentityData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

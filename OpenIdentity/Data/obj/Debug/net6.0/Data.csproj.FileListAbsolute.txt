@@ -1,0 +1,12 @@
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\Data.deps.json
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\Data.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\bin\Debug\net6.0\Data.pdb
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\refint\Data.dll
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\Data.pdb
+C:\myprogs\csharptemplates\OpenIdentity\Data\obj\Debug\net6.0\ref\Data.dll
